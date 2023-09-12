@@ -1,3 +1,8 @@
+<h1 align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+samir+gaire;Hi+👋,+I'm+ガイレ+サミル;Hi+👋,+I'm+सामिर‌+गैरे;)](https://samirgaire10.github.io/Portfolio/)
+</h1>
+
 
 # Python
 
@@ -24,7 +29,11 @@ Run
 python #.py file name
 ```
 ## 🚀 About Me
-I'm a full stack developer...
+- 👨‍💻 My Portfolio is available at [Github](https://github.com/samirgaire10)
+- 👨‍💻 My Portfolio is available at [Portfolio](https://samirgaire10.github.io/Portfolio/)
+- 👨‍💻 My projects  Library are available at [Library](https://samirgaire10.github.io/Library/)
+- 👨‍💻 My Highschool projects are available at [HighSchool projects](https://samirgaire10.github.io/High-School-Web-Projects/)
+
 
 <h3 align="left">Languages:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
