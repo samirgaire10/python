@@ -4,7 +4,9 @@
 </h1>
 
 
+<h3 align="left">Languages:</h3>
 # Python
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
 
@@ -35,5 +37,3 @@ python #.py file name
 - 👨‍💻 My Highschool projects are available at [HighSchool projects](https://samirgaire10.github.io/High-School-Web-Projects/)
 
 
-<h3 align="left">Languages:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
